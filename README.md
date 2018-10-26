@@ -1,2 +1,3 @@
 # Your basic Readme
-See "ABOUT_FRANK.md" for more details
+See [ABOUT_VAMP.md](ABOUT_VAMP) for more details
+
